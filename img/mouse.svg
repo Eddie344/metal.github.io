@@ -1,0 +1,17 @@
+<svg id="Группа_8" data-name="Группа 8" xmlns="http://www.w3.org/2000/svg" width="31" height="46" viewBox="0 0 31 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="15.5" cy="13.5" r="3"/>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-2" x="0.5" y="0.5" width="30" height="45" rx="15" ry="15"/>
+</svg>
